@@ -3,6 +3,10 @@ body {
   color: purple;
 }
 
+h1 {
+  color: yellow;
+}
+
 img {
   width: 200px; 
   height: 500px;
